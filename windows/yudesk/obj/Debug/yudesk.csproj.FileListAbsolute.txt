@@ -1,0 +1,10 @@
+H:\THRWORK\c#\yudesk\yudesk\bin\Debug\yudesk.exe.config
+H:\THRWORK\c#\yudesk\yudesk\bin\Debug\yudesk.exe
+H:\THRWORK\c#\yudesk\yudesk\bin\Debug\yudesk.pdb
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.csprojAssemblyReference.cache
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.MainWindow.resources
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.Properties.Resources.resources
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.csproj.GenerateResource.cache
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.csproj.CoreCompileInputs.cache
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.exe
+H:\THRWORK\c#\yudesk\yudesk\obj\Debug\yudesk.pdb
