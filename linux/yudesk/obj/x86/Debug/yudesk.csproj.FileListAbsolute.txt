@@ -1,0 +1,6 @@
+/home/harry/yudesk/yudesk/linux/yudesk/bin/Debug/yudesk.exe
+/home/harry/yudesk/yudesk/linux/yudesk/bin/Debug/yudesk.pdb
+/home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csprojAssemblyReference.cache
+/home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csproj.CoreCompileInputs.cache
+/home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.exe
+/home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.pdb
