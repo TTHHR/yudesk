@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yudesk", "yudesk.csproj", "{BFDCB8AA-BD88-4E68-B1EA-4B37BC696BD2}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{4FB0B42D-89DA-4B05-BE9F-1531362A6704}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuDesk", "YuDesk\YuDesk.csproj", "{03EB6EE4-C44B-46BC-9FA3-88BC837A3DDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,17 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BFDCB8AA-BD88-4E68-B1EA-4B37BC696BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFDCB8AA-BD88-4E68-B1EA-4B37BC696BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BFDCB8AA-BD88-4E68-B1EA-4B37BC696BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BFDCB8AA-BD88-4E68-B1EA-4B37BC696BD2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4FB0B42D-89DA-4B05-BE9F-1531362A6704}.Debug|Any CPU.ActiveCfg = Debug
-		{4FB0B42D-89DA-4B05-BE9F-1531362A6704}.Release|Any CPU.ActiveCfg = Release
+		{03EB6EE4-C44B-46BC-9FA3-88BC837A3DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EB6EE4-C44B-46BC-9FA3-88BC837A3DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EB6EE4-C44B-46BC-9FA3-88BC837A3DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EB6EE4-C44B-46BC-9FA3-88BC837A3DDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5E4CEF27-E4E7-4284-9410-BD5D8A612FBD}
+		SolutionGuid = {8BB484B1-C0FC-4E4A-A4C5-513CFF7E6AA7}
 	EndGlobalSection
 EndGlobal
