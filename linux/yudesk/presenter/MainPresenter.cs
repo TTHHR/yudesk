@@ -4,6 +4,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using cn.qingyuyu.yudesk.view;
+using Newtonsoft.Json.Linq;
 
 namespace cn.qingyuyu.yudesk.presenter
 {
@@ -47,21 +48,21 @@ namespace cn.qingyuyu.yudesk.presenter
                      
                     //通过 clientSocket 发送数据
                     string str = "{\"token\":\""+token+"\",\"need\":\"get\"}\n";
-                Console.WriteLine("向服务器发送消息：");
+               
                 clientSocket.Send(Encoding.ASCII.GetBytes(str));
                     clientSocket.Shutdown(SocketShutdown.Send);
-                    Console.WriteLine("发送完成：");
+                   
                     //通过clientSocket接收数据
                     int receiveLength = clientSocket.Receive(result);
                     String data = Encoding.ASCII.GetString(result, 0, receiveLength);
-                    Console.WriteLine("接收服务器消息：{0}",data );
-                    if(data.Contains("ok"))
+                    JObject dataJson = JObject.Parse(data);
+                    if (dataJson.GetValue("code").ToString() == "ok")
                     {
-                        mwi.SetInfoLabel(data.Substring());
+                        mwi.SetInfoLabel(dataJson.GetValue("data").ToString());
                     }
                     else
                     {
-
+                        mwi.SetInfoLabel(dataJson.GetValue("msg").ToString());
                     }
 
                 }

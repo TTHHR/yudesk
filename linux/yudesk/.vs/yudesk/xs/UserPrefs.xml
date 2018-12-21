@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{69200646-DB9C-49D4-9280-043EF79BDE94}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="presenter/MainPresenter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="view/MainWindow.cs">
     <Files>
       <File FileName="view/MainWindow.cs" Line="44" Column="23" />
-      <File FileName="presenter/MainPresenter.cs" Line="60" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.yudesk PreferredExecutionTarget="MonoDevelop.Default" />

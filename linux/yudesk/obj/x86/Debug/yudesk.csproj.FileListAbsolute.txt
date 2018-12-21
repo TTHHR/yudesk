@@ -4,3 +4,15 @@
 /home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csproj.CoreCompileInputs.cache
 /home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.exe
 /home/harry/yudesk/yudesk/linux/yudesk/obj/x86/Debug/yudesk.pdb
+/home/harry/yudesk/linux/yudesk/bin/Debug/yudesk.exe
+/home/harry/yudesk/linux/yudesk/bin/Debug/yudesk.pdb
+/home/harry/yudesk/linux/yudesk/bin/Debug/Newtonsoft.Json.dll
+/home/harry/yudesk/linux/yudesk/bin/Debug/Newtonsoft.Json.pdb
+/home/harry/yudesk/linux/yudesk/bin/Debug/Newtonsoft.Json.xml
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csprojAssemblyReference.cache
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/cn.qingyuyu.yudesk.Resources.resources
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csproj.GenerateResource.cache
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csproj.CoreCompileInputs.cache
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.csproj.CopyComplete
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.exe
+/home/harry/yudesk/linux/yudesk/obj/x86/Debug/yudesk.pdb
