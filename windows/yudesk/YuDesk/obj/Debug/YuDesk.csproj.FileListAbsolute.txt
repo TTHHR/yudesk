@@ -1,0 +1,16 @@
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\YuDesk.exe.config
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\YuDesk.exe
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\YuDesk.pdb
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\Newtonsoft.Json.dll
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\Newtonsoft.Json.pdb
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\bin\Debug\Newtonsoft.Json.xml
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\cn.qingyuyu.yudesk.Properties.Resources.resources
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\cn.qingyuyu.yudesk.Resource.resources
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\cn.qingyuyu.yudesk.view.AboutBox.resources
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\cn.qingyuyu.yudesk.view.InputDialog.resources
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\cn.qingyuyu.yudesk.view.MainWindow.resources
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\YuDesk.csproj.GenerateResource.cache
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\YuDesk.csproj.CoreCompileInputs.cache
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\YuDesk.csproj.CopyComplete
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\YuDesk.exe
+H:\THRWORK\c#\yudesk\windows\yudesk\YuDesk\obj\Debug\YuDesk.pdb

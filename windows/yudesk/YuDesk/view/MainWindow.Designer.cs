@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.settingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tokenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -58,14 +59,14 @@
             // tokenToolStripMenuItem
             // 
             this.tokenToolStripMenuItem.Name = "tokenToolStripMenuItem";
-            this.tokenToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tokenToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.tokenToolStripMenuItem.Text = "Token";
             this.tokenToolStripMenuItem.Click += new System.EventHandler(this.onTokenItemClick);
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.onAboutItemClick);
             // 
@@ -85,9 +86,11 @@
             this.ClientSize = new System.Drawing.Size(276, 135);
             this.Controls.Add(this.infoLabel);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainWindow";
             this.Text = "YuDesk";
+            this.SizeChanged += new System.EventHandler(this.MainWindow_SizeChanged);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
